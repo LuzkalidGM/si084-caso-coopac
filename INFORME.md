@@ -6,7 +6,7 @@
 |---|---|
 | **Apellidos y nombres** | Gutierrez Mamani Gabriela Luzkalid |
 | **Código de estudiante** | 2022074263 |
-| **URL del repositorio** | `[https://github.com/LuzkalidGM/si084-caso-coopac/tree/examen-u1](https://github.com/LuzkalidGM/si084-caso-coopac.git)` |
+| **URL del repositorio** | `https://github.com/LuzkalidGM/si084-caso-coopac` |
 | **Fecha** | 30/09/2026 |
 
 ## 1. Resultados de los procedimientos
